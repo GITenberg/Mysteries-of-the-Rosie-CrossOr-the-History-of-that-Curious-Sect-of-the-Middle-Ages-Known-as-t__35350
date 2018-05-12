@@ -1,0 +1,34 @@
+_repo: Mysteries-of-the-Rosie-CrossOr-the-History-of-that-Curious-Sect-of-the-Middle-Ages-Known-as-t__35350
+_version: 0.1.0
+alternative_title: Rosy Cross
+covers:
+- cover_type: archival
+  image_path: 35350-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2011-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35350'
+  lccn: '15004349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rosicrucians'
+- !lcc 'BF'
+title: 'Mysteries of the Rosie Cross
+
+  Or, the History of that Curious Sect of the Middle Ages, Known as the Rosicrucians;
+  with Examples of their Pretensions and Claims as Set Forth in the Writings of Their
+  Leaders and Disciples'
+url: http://www.gutenberg.org/ebooks/35350
